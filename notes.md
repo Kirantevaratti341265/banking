@@ -1,0 +1,1 @@
+layout for auth and root is different so need to create two layouts in app folder
